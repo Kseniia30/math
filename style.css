@@ -1,0 +1,29 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(18, 5, 32);
+    max-width: 1400px;
+    align-items: center;
+    margin-left: 40px;
+    line-height: 1.5;
+    text-indent: 30px;
+    text-align:justify;
+    color: aliceblue;
+}
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(190, 202, 82);
+}
+li {
+    text-indent: 0;
+}
+.barb {
+    font-family: 'Courier New', Courier, monospace;
+}
+.inst {color: rgb(119, 96, 141);}
+nav {
+    color: rgb(129, 42, 42);
+}
+.nav-text {
+    color: rgb(173, 236, 71);
+}
